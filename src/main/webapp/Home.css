@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body
+{
+	background-color: #001d3d;
+}
+
+#b1
+{
+	display: flex;
+	justify-content: center;
+    margin-top: 20px;
+    color: deeppink;
+    font-size: 30px;
+    border: 2px solid deeppink;
+    background-color: skyblue;
+}
+
